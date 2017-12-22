@@ -9,12 +9,16 @@ func main() {
 	start := time.Now()
 	fmt.Printf("Waktu Mulai: %02d:%02d:%02d \n", start.Hour(), start.Minute(), start.Second())
 
-	loop()
+	go loop()
 
 	finish := time.Now()
 	fmt.Printf("Waktu Selesai: %02d:%02d:%02d \n", finish.Hour(), finish.Minute(), finish.Second())
 	diff := finish.Sub(start)
 	fmt.Println("Perbedaan Waktu: ", diff)
+
+	var input string
+	fmt.Scanln(&input)
+	fmt.Println("done")
 }
 
 func loop() {
