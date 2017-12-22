@@ -1,0 +1,9 @@
+Menarik sekali pebisnis seperti Anda mempelajari bidang teknologi seperti konkurensi ini, bagi saya orang-orang seperti Anda adalah sesuatu yang langkah. Baiklah, melanjutkan pertanyaan Anda tentang konkurensi. Bila Anda bilang Konkurensi adalah paralelisme, maka saya senantiasa mengatakan itu salah untuk kebaikan Anda sendiri. 
+
+Konkurensi dan paralelisme adalah dua konsep yang berbeda karena konkurensi sendiri itu artinya adalah "Berurusan dengan banyak hal sekaligus" sedangkan paralelisme adalah "Mengerjakan banyak hal sekaligus". Jadi secara filosofi konkurensi adalah "konsep" dan paralelisme adalah "eksekusi", jelas dari sini kita mengetahui bahwa konkurensi dan paralelisme adalah sesuatu yang berbeda tapi dapat berhubungan satu sama lain. Gitu, pak.
+
+Oke, lanjut pak? haha
+
+Baiklah, jika dianalogikan di dunia nyata perbedaan konkurensi dan paralelisme bisa dilihat di perlombaan rally dakar. Kalau konkurensi itu satu mobil diisi dua orang, satu adalah driver dan satu lagi adalah co-driver. Secara simpel driver bertugas untuk mengemudi dan co-driver bertugas untuk navigasi. Nah, kalau paralelisme adalah satu mobil hanya diisi satu orang yang bertugas untuk bersamaan untuk mengemudi dan navigasi. Sudah jelas kan pak harusnya? hehe
+
+Jadi konkurensi itu bukan hanya mengerjakan banyak hal sekaligus seperti paralelisme, tetapi konkurensi juga menambah "yang mengerjakan" dan membagi resource antara siapa yang mengerjakan dan apa yang dikerjakan dan konkurensi tidak harus secara bersamaan. Pada lomba rally dakar pun begitu, kadang co-driver tidak harus memberitahu navigasi kepada driver karena alasan tertentu. Intinya konkurensi itu menambah siapa yang mengerjakan dan setiap orang hanya mempunyai tanggung jawab atas apa yang dibebankan kepada dia.
