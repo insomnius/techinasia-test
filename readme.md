@@ -4,3 +4,6 @@ Urutan Jawaban:
     - oddnumber-v2.go (Dengan Konkurensi)
 3. sort.go
 4. sort.md
+
+
+Dikumpulkan jum'at, 22 Desember 2017.
